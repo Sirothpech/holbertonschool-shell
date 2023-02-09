@@ -1,2 +1,3 @@
 #!/bin/bash
-cp /tmp/*.html /root/holbertonschool-shell/basics
+cp -rua *.html ../
+
