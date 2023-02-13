@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -d ugo+x-rw
+chmod 711 ..
