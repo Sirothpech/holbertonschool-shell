@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -G | tail | sort -nr
+ls -G | tail | sort -r
