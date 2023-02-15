@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -GaR | find -type d,f -empty | echo " "
+ls -GaR | find -type d,f -empty | echo >> "nouvelle ligne"
