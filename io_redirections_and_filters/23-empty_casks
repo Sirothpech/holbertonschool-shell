@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d,f -empty | echo >> "nouvelle ligne"
+find -type d,f -empty -print
