@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e $(($BREATH+$LOVE+57\n))
+echo $((BREATH**LOVE))
